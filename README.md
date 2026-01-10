@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Meghana-badugu/Meghana-Badugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation/Manual engineer with 3+ years of experience in Automation, API, performance, ETL, Mainframe and CI/CD Testing
 
-Here are some ideas to get you started:
+## Skills
+Selenium | TestNG | Postman | Jenkins | SQL | java | Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### portfolio projects
+- Selenium Automation Framework
+- API Testing with postman
+- Performance testing with Jmeter
+- ETL & database Testing
+- CI/CD Jenkins pipelines
+
+### Connect
+LinkedIn: www.linkedin.com/in/meghana-badugu-049483354
+Email: meghanabadugu67@gmail.com
