@@ -1,14 +1,14 @@
 /* General Styles */
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Times new roman', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f0f4f8; /* light blue-gray background */
-    color: #333;
+    color: #1e293b; /* dark slate blue for text */
 }
 
 header {
-    background-color: #1E3A8A; /* deep professional blue */
+    background-color: #1e3a8a; /* deep professional blue */
     color: white;
     text-align: center;
     padding: 2rem 1rem;
@@ -21,7 +21,7 @@ header h1 {
 nav {
     display: flex;
     justify-content: center;
-    background-color: #0F172A; /* dark navy for nav */
+    background-color: #0f172a; /* dark navy for nav */
     flex-wrap: wrap;
 }
 
@@ -35,7 +35,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #1E40AF; /* lighter blue hover */
+    background-color: #1e40af; /* lighter blue hover */
 }
 
 section {
@@ -45,9 +45,9 @@ section {
 }
 
 h2 {
-    border-bottom: 3px solid #1E3A8A; /* same deep blue as header */
+    border-bottom: 3px solid #1e3a8a; /* deep blue for section titles */
     padding-bottom: 0.5rem;
-    color: #1E3A8A;
+    color: #1e3a8a;
 }
 
 .card {
@@ -72,7 +72,7 @@ ul {
     display: inline-block;
     padding: 0.6rem 1.2rem;
     margin-top: 0.5rem;
-    background-color: #1E3A8A; /* deep blue buttons */
+    background-color: #1e3a8a; /* deep blue buttons */
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -80,13 +80,13 @@ ul {
 }
 
 .btn:hover {
-    background-color: #2563EB; /* bright blue on hover */
+    background-color: #2563eb; /* bright professional blue on hover */
     transform: translateY(-2px);
 }
 
 footer {
     text-align: center;
-    background-color: #0F172A;
+    background-color: #0f172a; /* dark navy footer */
     color: white;
     padding: 1rem;
     margin-top: 2rem;
@@ -103,3 +103,4 @@ footer {
         flex-direction: column;
     }
 }
+
