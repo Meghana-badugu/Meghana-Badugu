@@ -1,106 +1,16 @@
-/* General Styles */
-body {
-    font-family: 'Times new roman', sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f4f8; /* light blue-gray background */
-    color: #1e293b; /* dark slate blue for text */
-}
+# Hi, I’m Meghana Badugu 👋
+**Data Engineer | Data Masking Specialist | SQL & ETL | Python**
 
-header {
-    background-color: #1e3a8a; /* deep professional blue */
-    color: white;
-    text-align: center;
-    padding: 2rem 1rem;
-}
+📍 Florida, USA  
+📧 meghanabadugu67@gmail.com | 📞 +1 (813) 345-1670  
+🔗 [LinkedIn](https://linkedin.com/in/meghana-badugu-049483354/) | 🔗 [GitHub](https://github.com/meghana-badugu)
 
-header h1 {
-    margin: 0;
-}
+---
 
-nav {
-    display: flex;
-    justify-content: center;
-    background-color: #0f172a; /* dark navy for nav */
-    flex-wrap: wrap;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-    padding: 1rem 1.5rem;
-    margin: 0.3rem;
-    border-radius: 5px;
-    transition: 0.3s;
-}
-
-nav a:hover {
-    background-color: #1e40af; /* lighter blue hover */
-}
-
-section {
-    max-width: 1000px;
-    margin: auto;
-    padding: 2rem;
-}
-
-h2 {
-    border-bottom: 3px solid #1e3a8a; /* deep blue for section titles */
-    padding-bottom: 0.5rem;
-    color: #1e3a8a;
-}
-
-.card {
-    background-color: white;
-    padding: 1.5rem;
-    margin-bottom: 1.5rem;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
-    transition: transform 0.3s, box-shadow 0.3s;
-}
-
-.card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
-}
-
-ul {
-    line-height: 1.6;
-}
-
-.btn {
-    display: inline-block;
-    padding: 0.6rem 1.2rem;
-    margin-top: 0.5rem;
-    background-color: #1e3a8a; /* deep blue buttons */
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: 0.3s;
-}
-
-.btn:hover {
-    background-color: #2563eb; /* bright professional blue on hover */
-    transform: translateY(-2px);
-}
-
-footer {
-    text-align: center;
-    background-color: #0f172a; /* dark navy footer */
-    color: white;
-    padding: 1rem;
-    margin-top: 2rem;
-}
-
-/* Contact Buttons */
-#contact .btn {
-    margin-right: 1rem;
-}
-
-/* Responsive */
-@media (max-width: 600px) {
-    nav {
-        flex-direction: column;
-    }
-}
-
+## 🛠 Skills
+- **Data Masking & Governance:** Static & Dynamic Masking, PII/PHI Protection, HIPAA Compliance  
+- **SQL & Databases:** Joins, CTEs, Subqueries, Stored Procedures, MySQL  
+- **ETL & Validation:** Data Transformation, Quality Checks, Jenkins CI/CD  
+- **File & API Processing:** CSV, TXT, XML, JSON  
+- **Programming & Scripting:** Python, JavaScript, Java  
+- **Monitoring & Tools:** Apache JMeter, Kibana, Dynatrace, Confluence 
